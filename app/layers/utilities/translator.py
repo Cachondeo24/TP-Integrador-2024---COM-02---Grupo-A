@@ -1,5 +1,4 @@
 # translator: se refiere a un componente o conjunto de funciones que se utiliza para convertir o "mapear" datos de un formato o estructura a otro. Esta conversión se realiza típicamente cuando se trabaja con diferentes capas de una aplicación, como por ejemplo, entre la capa de datos y la capa de presentación, o entre dos modelos de datos diferentes.
-
 from app.layers.utilities.card import Card
 
 # usado cuando la info. viene de la API, para transformarla en una Card.
